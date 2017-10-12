@@ -1,0 +1,15 @@
+{
+    "title": "What",
+    "baseURL": "https:\/\/www.werargastro.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758397",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "werargastro.com"
+    }
+}
